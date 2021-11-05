@@ -6,5 +6,6 @@ permalink: /
 
 # THIC Group
 
-<img src="Assets/thic.png" width="50%">
+<img src="/assets/thic.png" width="50%">
+
 Tactics & High Impact Combatives Group

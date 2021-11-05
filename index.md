@@ -6,4 +6,4 @@ permalink: /
 
 # THIC Group
 
-![](/assets/thic.png | width=100)
+![](/assets/thic.png | width=50)

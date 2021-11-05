@@ -1,11 +1,9 @@
 ---
-title: /
+title: / THIC Group
 layout: home
 permalink: /
 ---
 
-# THIC Group
+# Tactics & High Impact Combatives Group
 
-<img src="/assets/thic.png" width="50%">
-
-Tactics & High Impact Combatives Group
+![THIC Group](/assets/thic.png | width=50)
